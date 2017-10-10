@@ -1,0 +1,92 @@
+
+html{
+	background: url(images/bucketlist2.jpg);
+}
+#delete{
+    background: red;
+}
+#update{
+    background: green;
+}
+
+#main {
+    padding-right: 100px;
+    padding-left: 100px;
+    text-align: center; 
+}
+#header {
+    padding-top: 5px;
+
+    padding-left:80px;
+    padding-right: 80px; 
+    text-align: center; 
+}
+#background{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+#navmenu ul {display: inline; 
+	padding: 5px 20px 5px 20px  5px 20px 5px; color: green;
+	
+	padding-left: 200px;
+    float:right;
+     }
+
+#sidebar h3 {
+    font-size: 24px;
+    color: #044055;
+    font-weight: normal;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#sidebar {
+    float: center;
+    margin-left: 150px;
+    margin-top: 0px;
+    background: grey;
+    border: 1px solid #BEBDBD;
+    padding: 0px; 
+    width: 600;
+    height: 600;
+}
+
+.submit{
+	float:center;
+	position:relative;
+	padding:50;
+	margin-top:160px;
+	margin-left:25px;
+	padding-bottom: 25px;
+	width:300px;
+	height:30px;
+	border:0;
+}
+#submit1 {
+	position:absolute;
+	z-index: 10;
+	border:0;
+    background: green;
+    width: 100px;
+    height: 30px;
+    padding-bottom: 20px;
+}
+#signin{
+    background: blue;
+    width: 80px;
+    height: 50px;
+}
+#home{
+background: lightgrey;
+    width: 80px;
+    height: 50px;
+}
+#words{
+text-align: center;
+
+}
+.footer{
+    text-align: center;
+    background: lightblue;
+}
+

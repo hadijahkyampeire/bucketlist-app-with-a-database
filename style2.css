@@ -1,0 +1,15 @@
+html{
+	background: url(../images/bucketlist.jpg);
+	padding-bottom: 50px;
+	height: 300px;
+}
+#update{
+width:200px;
+height: 50px;
+background: brown;
+}
+#delete{
+width: 200px;
+height: 50px;
+background: red;
+}
